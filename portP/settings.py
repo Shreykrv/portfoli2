@@ -42,8 +42,8 @@ INSTALLED_APPS = [
     'portapp'
 ]
 
-# WSGI_APPLICATION = 'portP.wsgi.application'
-WSGI_APPLICATION = 'portP.app.wsgi.app'
+WSGI_APPLICATION = 'portP.wsgi.application'
+# WSGI_APPLICATION = 'portP.app.wsgi.app'
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',

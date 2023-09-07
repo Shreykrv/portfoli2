@@ -1,0 +1,17 @@
+asgiref==3.7.2
+dj-database-url==2.1.0
+Django==4.2.4
+djongo==1.3.4
+dnspython==2.4.2
+environ==1.0
+gunicorn==21.2.0
+psycopg2-binary==2.9.7
+pycodestyle==2.11.0
+python-environ==0.4.54
+pytz==2023.3
+sqlparse==0.4.4
+tzdata==2023.3
+whitenoise==6.5.0
+
+
+
